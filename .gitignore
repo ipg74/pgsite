@@ -38,6 +38,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-docs/notatki
-_docpress/notatki/*
-!_docpress/notatki/*.html
+source/notatki
+docs/notatki/*
+!docs/notatki/*.html
