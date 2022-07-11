@@ -1,0 +1,108 @@
+{
+  "toc": {
+    "sections": [
+      {
+        "title": "Notatki PG",
+        "source": "README.md",
+        "url": "index.html",
+        "slug": "index"
+      },
+      {
+        "title": "BOT",
+        "source": "docs/notatki/szesc_bitew.md",
+        "url": "notatki/szesc_bitew.html",
+        "slug": "notatkiszesc_bitew",
+        "headings": [
+          {
+            "title": "1. Żyj tak, jakby nie liczyło się nic innego.",
+            "depth": 2,
+            "id": "1.-zyj-tak-jakby-nie-liczylo-sie-nic-innego.",
+            "headings": [
+              {
+                "title": "Pytania:",
+                "depth": 3,
+                "id": "pytania:"
+              }
+            ]
+          },
+          {
+            "title": "2. Zacięta walka między aniołami",
+            "depth": 2,
+            "id": "2.-zacieta-walka-miedzy-aniolami",
+            "headings": [
+              {
+                "title": "Pytania",
+                "depth": 3,
+                "id": "pytania"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "index": {
+    "index.html": {
+      "source": "README.md",
+      "title": "Notatki PG",
+      "pageTitle": "Notatki PG",
+      "slug": "index"
+    },
+    "notatki/szesc_bitew.html": {
+      "source": "docs/notatki/szesc_bitew.md",
+      "title": "BOT - Notatki PG",
+      "pageTitle": "BOT",
+      "slug": "notatkiszesc_bitew",
+      "headings": [
+        {
+          "title": "1. Żyj tak, jakby nie liczyło się nic innego.",
+          "depth": 2,
+          "id": "1.-zyj-tak-jakby-nie-liczylo-sie-nic-innego.",
+          "headings": [
+            {
+              "title": "Pytania:",
+              "depth": 3,
+              "id": "pytania:"
+            }
+          ]
+        },
+        {
+          "title": "2. Zacięta walka między aniołami",
+          "depth": 2,
+          "id": "2.-zacieta-walka-miedzy-aniolami",
+          "headings": [
+            {
+              "title": "Pytania",
+              "depth": 3,
+              "id": "pytania"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "sources": {
+    "README.md": "index.html",
+    "docs/notatki/szesc_bitew.md": "notatki/szesc_bitew.html",
+    "docs/notatki/debug.log": "notatki/debug.log",
+    "docs/notatki/ec.sh": "notatki/ec.sh",
+    "docs/notatki/pandoc_mdtopdf.sh": "notatki/pandoc_mdtopdf.sh",
+    "docs/notatki/pandoc_mdtopdf_columns.sh": "notatki/pandoc_mdtopdf_columns.sh",
+    "docs/notatki/filters/columns.lua": "notatki/filters/columns.lua",
+    "docs/notatki/out/droga_krzyzowa_psalmy.mobi": "notatki/out/droga_krzyzowa_psalmy.mobi",
+    "docs/notatki/out/duplo_rozwazania.mobi": "notatki/out/duplo_rozwazania.mobi",
+    "docs/notatki/out/kerygmat.mobi": "notatki/out/kerygmat.mobi",
+    "docs/notatki/wzorce_proj_images/compositor_class.png": "notatki/wzorce_proj_images/compositor_class.png",
+    "docs/notatki/wzorce_proj_images/relations.png": "notatki/wzorce_proj_images/relations.png",
+    "docs/notatki/wzorce_proj_images/compositor_object.png": "notatki/wzorce_proj_images/compositor_object.png",
+    "docs/notatki/wzorce_proj_images/table.png": "notatki/wzorce_proj_images/table.png",
+    "docs/notatki/temp/drogowskazy32.pdf": "notatki/temp/drogowskazy32.pdf",
+    "docs/notatki/temp/drogowskazy33.pdf": "notatki/temp/drogowskazy33.pdf",
+    "docs/notatki/temp/temp.txt": "notatki/temp/temp.txt",
+    "docs/notatki/temp/tmp.txt": "notatki/temp/tmp.txt",
+    "docs/notatki/temp/out/czytania25052022.mobi": "notatki/temp/out/czytania25052022.mobi",
+    "docs/notatki/msj/drogowskazy31.mobi": "notatki/msj/drogowskazy31.mobi",
+    "docs/notatki/msj/out/drogowskazy32.mobi": "notatki/msj/out/drogowskazy32.mobi",
+    "docs/notatki/msj/out/drogowskazy33.mobi": "notatki/msj/out/drogowskazy33.mobi"
+  }
+}
